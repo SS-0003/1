@@ -1,4 +1,4 @@
 # 1
 This is my first Git repository.
 <br>
-Author - Sagnik Saha
+Author - Sagnik Saha (tutorial)
